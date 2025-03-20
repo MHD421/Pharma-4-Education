@@ -11410,7 +11410,7 @@ textarea.form-control {
   position: relative;
   height: 100vh;
   min-height: 500px;
-  background: url(/assets/imgs/background-main.jpg) no-repeat center center fixed;
+  background: url(assets/imgs/background-main.jpg) no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
 }
