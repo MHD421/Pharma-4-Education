@@ -11612,7 +11612,7 @@ textarea.form-control {
 
 .section.has-img-bg {
   position: relative;
-  background: url(\imgs\computer1 img.jpg) no-repeat center top fixed;
+  background: url(assets\imgs\computer1 img.jpg) no-repeat center top fixed;
   background-size: cover;
   color: #fff;
 }
